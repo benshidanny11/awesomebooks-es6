@@ -17,7 +17,7 @@ In this project, we designed and built a website for a library app, a place wher
 
 ## Live Demo
 
-[Live Link](https://christianib003.github.io/Awesome-Books/)
+[Live Link](https://benshidanny11.github.io/awesomebooks-es6/)
 
 
 ## Getting Started
@@ -51,7 +51,7 @@ npx stylelint "**/*.{css,scss}"
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Christianib003/awesomebooks/issues).
+Feel free to check the [issues page](https://github.com/benshidanny11/awesomebooks-es6/issues).
 
 ## Show your support
 
